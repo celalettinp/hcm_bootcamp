@@ -1,12 +1,3 @@
-########################################################################################################################
-#!!
-#! @description: Generated operation description
-#!
-#! @output output_1: Generated ID
-#! @result SUCCESS: Operation always completes successfully.
-#!!#
-########################################################################################################################
-
 namespace: io.cloudslang.demo
 
 operation:
